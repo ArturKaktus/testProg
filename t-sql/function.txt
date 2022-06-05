@@ -1,0 +1,9 @@
+CREATE FUNCTION [dbo].[Funct] (@input INT)
+RETURNS VARCHAR(250)
+AS
+BEGIN
+	DECLARE @parentid INT, @resultName VARCHAR(250)
+	SET @parentid = (SELECT 'parentId' FROM struct WHERE 'id' = @input)
+	SET @resultName = (SELECT 'name' FROM struct WHERE 'id' = @parentid)
+	RETURN @resultName
+END
