@@ -1,0 +1,8 @@
+D:\Programming\C_Sharp\TestOil\TestOil\bin\Debug\TestOil.exe.config
+D:\Programming\C_Sharp\TestOil\TestOil\bin\Debug\TestOil.exe
+D:\Programming\C_Sharp\TestOil\TestOil\bin\Debug\TestOil.pdb
+D:\Programming\C_Sharp\TestOil\TestOil\obj\Debug\TestOil.csproj.AssemblyReference.cache
+D:\Programming\C_Sharp\TestOil\TestOil\obj\Debug\TestOil.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C_Sharp\TestOil\TestOil\obj\Debug\TestOil.csproj.CoreCompileInputs.cache
+D:\Programming\C_Sharp\TestOil\TestOil\obj\Debug\TestOil.exe
+D:\Programming\C_Sharp\TestOil\TestOil\obj\Debug\TestOil.pdb
